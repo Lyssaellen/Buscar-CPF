@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "cpf": 123456789101,
+        "nome":"Tiana",
+        "sobrenome": "Princess",
+        "cidade":"Nova Orleans",
+        "pais":"Disney",
+        "link": "https://www.bratz.com/?srsltid=AfmBOor52dCSF33dM4j0WSC7dhRY4_njPFSZTMCi21j-ebmBzAcE4f5N",
+        "imagem":"<img src='img/80e6552e1e1324e84eb1198423d87821.jpg'width='300px'>"
+    },
+
+    {
+        "id": 2,
+        "cpf":123456789102,
+        "nome":"Coco",
+        "sobrenome": "Jones",
+        "cidade":"Nova York",
+        "pais":"Estados Unidos",
+        "link": "https://www.bratz.com/?srsltid=AfmBOor52dCSF33dM4j0WSC7dhRY4_njPFSZTMCi21j-ebmBzAcE4f5N",
+        "imagem":"<img src='img/7f4f5e29788b96c6e4b00eec863f205e.jpg'width='300px'>"
+    },
+
+    {
+        "id": 3,
+        "cpf":123456789103,
+        "nome":"Hianna",
+        "sobrenome": "Cantora",
+        "cidade":"Nova Yourk",
+        "pais":"Estados Unidos",
+        "link": "https://www.bratz.com/?srsltid=AfmBOor52dCSF33dM4j0WSC7dhRY4_njPFSZTMCi21j-ebmBzAcE4f5N",
+        "imagem":"<img src='img/64a2250e024f92d92bc7a6df8e64d732.jpg'width='300px'>"
+    },
+
+    {
+        "id": 4,
+        "cpf":123456789104,
+        "nome":"Raven",
+        "sobrenome": "Baxter",
+        "cidade":"Disney",
+        "pais":"Estados Unidos",
+        "link": "",
+        "imagem":"<img src='img/43199fa169f4d56ecc1dd9ac037fc26e.jpg'width='300px'>"
+    },
+
+    {
+        "id": 5,
+        "cpf":123456789105,
+        "nome":"Queen",
+        "sobrenome": "Lathfa",
+        "cidade":"Nova Orleans",
+        "pais":"Estados Unidos",
+        "link": "",
+        "imagem":"<img src='img/c3a69036750ab146c2de23e3ca1442da.jpg'width='300px'>"
+    },
+
+    {
+        "id": 6,
+        "cpf":123456789106,
+        "nome":"Beyonce",
+        "sobrenome": "cantora",
+        "cidade":"Nova Yourk",
+        "pais":"Estados Unidos",
+        "link": "",
+        "imagem":"<img src='img/ca6223b72a9c901fcccd238104ee5f6c.jpg'width='300px'>"
+    },
+
+    {
+        "id": 7,
+        "cpf":123456789107,
+        "nome":"Hilary",
+        "sobrenome": "Banks",
+        "cidade":"Bel Air",
+        "pais":"Estados Unidos",
+        "link": "",
+        "imagem":"<img src='img/cfbc14ac8db1a74acd4262d515adb11a.jpg'width='300px'>"
+    },
+
+    {
+        "id": 8,
+        "cpf":123456789108,
+        "nome":"Whitney",
+        "sobrenome": "Hoston",
+        "cidade":"Do meu coração",
+        "pais":"Estados Unidos",
+        "link": "",
+        "imagem":"<img src='img/08ee13597c1c0210fd38256656d4c580.jpg'width='300px'>"
+    }
+]
